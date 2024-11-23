@@ -11,3 +11,8 @@
 - Published Oct 2024  
 - AWS Blog Post [LINK](https://aws.amazon.com/blogs/machine-learning/create-a-generative-ai-based-application-builder-assistant-using-amazon-bedrock-agents/)
 - Github repository [LINK]([https://github.com/aws-samples/using-bedrock-guardrails-with-bedrock-agents-to-improve-adversarial-robustness](https://github.com/aws-samples/application-builder-assistant-using-bedrock-agents-and-multiple-knowledge-bases/tree/main))
+
+### Blog 3:Using 𝗟𝗟𝗠 𝗗𝗲𝗯𝗮𝘁𝗲𝘀 to 𝗶𝗺𝗽𝗿𝗼𝘃𝗲 𝗳𝗮𝗰𝘁𝘂𝗮𝗹 𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝗰𝘆(𝗮𝗻𝗱 𝗿𝗲𝗱𝘂𝗰𝗲 𝗵𝗮𝗹𝗹𝘂𝗰𝗶𝗻𝗮𝘁𝗶𝗼𝗻𝘀)
+- Published Nov 2024
+- AWS Blog Post [LINK](https://aws.amazon.com/blogs/machine-learning/improve-factual-consistency-with-llm-debates/)
+- Github repository [LINK](https://github.com/aws-samples/improve-factual-consistency-with-llm-debate-technique)
