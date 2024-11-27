@@ -1,4 +1,9 @@
 # My AWS Blog collection repository
+-----
+
+## Search query: https://aws.amazon.com/search/?searchQuery=shayan+ray
+
+-----
 
 ### Blog 1: Improve-llm-application-robustness-with-amazon-bedrock-guardrails-and-amazon-bedrock-agents
 
