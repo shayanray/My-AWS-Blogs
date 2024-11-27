@@ -16,3 +16,8 @@
 - Published Nov 2024
 - AWS Blog Post [LINK](https://aws.amazon.com/blogs/machine-learning/improve-factual-consistency-with-llm-debates/)
 - Github repository [LINK](https://github.com/aws-samples/improve-factual-consistency-with-llm-debate-technique)
+
+### Blog 4: Reducing hallucinations in large language models with custom intervention using Amazon Bedrock Agents
+- Published Nov 2024
+- AWS Blog Post [LINK](https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-large-language-models-with-custom-intervention-using-amazon-bedrock-agents/)
+- Github repository [LINK](https://github.com/aws-samples/responsible_ai_reduce_hallucinations_for_genai_apps)
