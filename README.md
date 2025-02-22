@@ -26,3 +26,9 @@
 - Published Nov 2024
 - AWS Blog Post [LINK](https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-large-language-models-with-custom-intervention-using-amazon-bedrock-agents/)
 - Github repository [LINK](https://github.com/aws-samples/responsible_ai_reduce_hallucinations_for_genai_apps)
+
+### Blog 5: LLM continuous self-instruct fine-tuning framework powered by compound AI systems
+- Published Feb 2025
+- AWS Blog Post [LINK](https://aws.amazon.com/blogs/machine-learning/llm-continuous-self-instruct-fine-tuning-framework-powered-by-a-compound-ai-system-on-amazon-sagemaker/))
+- AWS Blog Post 
+- Github repository [LINK](https://github.com/aws-samples/amlc-2024-tutorial-continuous-fine-tuning-compound-ai/tree/main)
