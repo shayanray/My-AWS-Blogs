@@ -30,5 +30,4 @@
 ### Blog 5: LLM continuous self-instruct fine-tuning framework powered by compound AI systems
 - Published Feb 2025
 - AWS Blog Post [LINK](https://aws.amazon.com/blogs/machine-learning/llm-continuous-self-instruct-fine-tuning-framework-powered-by-a-compound-ai-system-on-amazon-sagemaker/)
-- AWS Blog Post 
 - Github repository [LINK](https://github.com/aws-samples/amlc-2024-tutorial-continuous-fine-tuning-compound-ai/tree/main)
